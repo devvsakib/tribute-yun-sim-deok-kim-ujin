@@ -18,6 +18,6 @@ His pen name is Choseong (焦星) · Susan (水山).
 
 <br>
 
-<br>
 
-On August 3, 1926, he committed suicide with his lover Yun Sim-deok, who sang 'Praise of Death' in the Hyeonhae Sea.
+# The Hymn of Death
+Yun and Kim U-jin committed suicide together in 1926, jumping off a passenger ship en route from Simonoseki to Busan. The shocking news caused a sensation in Korea, and Yun's 1926 recording of "Hymn of Death" (Hangul: 사의 찬미; also called "Death Song") sold a record 100,000 copies following her death.
