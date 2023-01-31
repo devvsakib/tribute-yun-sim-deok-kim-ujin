@@ -1,11 +1,13 @@
 # Tribute page of Yun Sim Deok and Kim U-Jin
 ## The Hymn of Death
-Yun and Kim U-jin committed suicide together in 1926, jumping off a passenger ship en route from Simonoseki to Busan. The shocking news caused a sensation in Korea, and Yun's 1926 recording of "Hymn of Death" (Hangul: 사의 찬미; also called "Death Song") sold a record 100,000 copies following her death.
+The Hymn of Death is a korean drama that base on **true events**, in 4 August 1926, Yun Sim Deok and Kim U-jin committed suicide together, jumping off a passenger ship en route from Simonoseki to Busan. The series depicts the tragic romance between Joseon's first soprano **Yun Sim-deok** and the genius playwright **Kim Woo-jin**. The shocking news caused a sensation in Korea, and Yun's 1926 recording of "Hymn of Death" (Hangul: 사의 찬미; also called "Death Song") sold a record 100,000 copies following her death.
 
 <br>
 
-# About
+### Death Song
+***Praise of Death*** was the last song sing by **Yun Sim Deok** before they suicide. This song also known as **Death Song**. You will find the heart touching lyrics (here)[https://devvsakib.github.io/tribute-yun-sim-deok-kim-ujin/#sim]
 
+# About
 ### Yun Sim Deok
 Yun Sim-deok was a Korean singer. She was the country's first professional soprano.
 
