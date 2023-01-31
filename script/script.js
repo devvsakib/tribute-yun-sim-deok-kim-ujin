@@ -10,6 +10,7 @@ navItems.forEach(item => {
         if (item === navItems[0]) {
             intro.style.transform = 'translateX(-40000px)';
             sim.style.transform = 'translateX(0px)';
+            // sim.style.transition = 'all 1s ease-in-out';
             intro.style.display = 'none';
             sim.style.display = 'block';
             jin.style.display = 'none';
@@ -17,9 +18,11 @@ navItems.forEach(item => {
         else{
             intro.style.transform = 'translateX(-40000px)';
             jin.style.transform = 'translateX(0px)';
+            jin.style.transition = 'all 1s ease-in-out';
             intro.style.display = 'none';
             jin.style.display = 'block';
             sim.style.display = 'none';
+            jin.classList.add('relative');
         }
     })  
 });
