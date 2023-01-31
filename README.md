@@ -5,7 +5,7 @@ The Hymn of Death is a korean drama that base on **true events**, in 4 August 19
 <br>
 
 ### Death Song
-***Praise of Death*** was the last song sing by **Yun Sim Deok** before they suicide. This song also known as **Death Song**. You will find the heart touching lyrics (here)[https://devvsakib.github.io/tribute-yun-sim-deok-kim-ujin/#sim]
+***Praise of Death*** was the last song sing by **Yun Sim Deok** before they suicide. This song also known as **Death Song**. You will find the heart touching lyrics [here](https://devvsakib.github.io/tribute-yun-sim-deok-kim-ujin/#sim)
 
 # About
 ### Yun Sim Deok
