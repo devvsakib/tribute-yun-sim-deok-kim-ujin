@@ -12,6 +12,7 @@ Korean: 윤심덕; <br>
 Hanja: 尹心悳; <br>
 Birth: 25 July 1897; <br>
 Death:4 August 1926; <br>
+Her pen name is Suseon (수선) · Susŏn (水仙).
 
 ### Kim U-Jin
 Kim Woo-jin was a theatrical figure and theater theorist during the Japanese colonial period. Born in Jangseong, Jeollanam-do. He was born as the eldest son of Kim Seong-gyu, a wealthy farmer who supervised Muan in Jangseong-gun and Mokpo, and the Park family in Suncheon.
