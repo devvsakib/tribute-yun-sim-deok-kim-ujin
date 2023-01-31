@@ -12,7 +12,7 @@ Yun Sim-deok was a Korean singer. She was the country's first professional sopra
 Korean: 윤심덕; <br>
 Hanja: 尹心悳; <br>
 Birth: 25 July 1897; <br>
-Death:4 August 1926; <br>
+Death: 4 August 1926; <br>
 Her pen name is Suseon (수선) · Susŏn (水仙).
 
 ### Kim U-Jin
@@ -20,5 +20,5 @@ Kim Woo-jin was a theatrical figure and theater theorist during the Japanese col
 
 Korean: 김우진; <br>
 Birth: 19 September 1897; <br>
-Death:4 August 1926; <br>
+Death: 4 August 1926; <br>
 His pen name is Choseong (焦星) · Susan (水山).
